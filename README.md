@@ -1,4 +1,5 @@
-# automatic_music_reading
+# Automatic Music Reading
+
 
 Anwendungen von Matlab/Octave (BZG1308b)
 Automatic music reading: extract the note values of a (simple) music stream using time frequency analysis.
